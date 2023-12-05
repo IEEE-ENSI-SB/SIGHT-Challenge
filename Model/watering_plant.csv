@@ -1,0 +1,10 @@
+plant,temperature_inf,temperature_sup,status,action(mm)
+apple,18,24,1,40
+apple,18,24,0,32
+apple,18,24,-1,25
+papaya,22,27,1,"5,00E+01"
+papaya,22,27,0,"3,50E+01"
+papaya,22,27,-1,"2,50E+01"
+pineapple,20,36,1,7
+pineapple,20,36,0,5
+pineapple,20,36,-1,3
