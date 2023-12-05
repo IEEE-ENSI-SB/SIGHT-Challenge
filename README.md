@@ -19,10 +19,12 @@ Weather Page: This page informs the farmer about the day's weather, aiding in be
 
 This project involves the development of a plant recognition system that employs a deep learning model to categorize images of plants into three groups: apple, papaya and pineapple.Furthermore, the system offers weather information tailored to the user’s location. Depending on the geographical coordinates, there is an additional dataset that displays the required water quantity for each specific plant on particular day and in that specific location.
 The project consists of two main components: 
+
 1-	Plant recognition model:
 -	A convolutional Neural Network ( CNN ) is trained on a dataset containing images of apples, papayas and pineapples.
 -	The model achieves an accuracy of 88.35% on the test dataset 
 -	Users can input an image, and the model will predict the class of the plant along with a confidence score.
+
 2-	Weather information:
 -	The system provides real-time weather information based on the user’s location.
 -	Users are prompted to enter their city, and the system fetches weather data using the [Weatherstack API].
